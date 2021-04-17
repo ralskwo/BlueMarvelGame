@@ -1,8 +1,8 @@
 ﻿  marvel.c
-C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\Marvel\marvel.c(369,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\Marvel\marvel.c(666,20): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\Marvel\marvel.c(888,7): warning C4101: 'cmd' :참조되지 않은 지역 변수입니다.
-C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\Marvel\marvel.c(1212,19): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\Marvel\marvel.c(1212,19): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
-C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\Marvel\marvel.c(1261,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Marvel.vcxproj -> C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\Debug\Marvel.exe
+C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\marvel.c(369,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\marvel.c(666,20): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\marvel.c(888,7): warning C4101: 'cmd' :참조되지 않은 지역 변수입니다.
+C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\marvel.c(1206,19): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\marvel.c(1206,19): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Marvel\marvel.c(1255,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Marvel.vcxproj -> C:\Users\ralsk\바탕 화면\study\programming\Cproject\Marvel\Debug\Marvel.exe

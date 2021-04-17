@@ -887,7 +887,6 @@ void winner(Player* pl)
 	int i, j;
 	char cmd[100];
 	char winner_message_1[30] = "Thank you for playing.";
-	char winner_message_2[50] = "2019,06,12  Hyeok";
 
 	//소리재생
 	PlaySound(L"clap.wav", NULL, SND_ASYNC);
@@ -1008,12 +1007,7 @@ void winner(Player* pl)
 		printf("%c", winner_message_1[i]);
 		Sleep(100);
 	}
-	gotoxy(10, 29);
-	for (i = 0; winner_message_2[i]; i++)
-	{
-		printf("%c", winner_message_2[i]);
-		Sleep(100);
-	}
+	
 
 	removeCursor();
 	_getch();
